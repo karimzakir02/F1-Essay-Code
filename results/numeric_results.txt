@@ -1,0 +1,33 @@
+These are the results obtained during analysis:
+FP3 Pos & Mean Race Pos Pearson Corr: 0.9825268814822627
+Obtained from position_summary.py
+
+FP3 Pos & Race Pos Pearson Corr: 0.7159983037559915
+Obtained from pearson_correlation.py
+
+FP3 Pos & Mean Race Pos Pearson Corr: 0.9825268814822627
+Obtained from position_summary.py
+
+Accuracy for Each Prediction:
+s(x):
+- Avg. Difference: 3.23874904786476
+- Prob. Exactly Right: 0.12708222762789326 &
+0.11190476190476188
+- Prob. Approx Right: 0.6660549351319476 &
+0.5904761904761905
+f(x):
+- Avg. Difference: 4.095732683424247
+- Prob. Exactly Right: 0.10088241436925646 &
+0.09047619047619047 
+- Prob. Approx Right: 0.5373265578161089 &
+0.4809523809523809
+g(x):
+- Avg. Difference: 2.9093359317411176
+- Prob. Exactly Right: 0.11982087571870852 &
+0.10476190476190476
+- Prob. Approx Right: 0.6967264976165904 &
+0.619047619047619
+Obtained from accuracy.py
+
+FP3 Pos & Mean Race Pos Pearson Corr: 0.9825268814822627
+Obtained from position_summary.py 
